@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+.headerPrimary {
+  position: relative;
+  width: 100%;
+  height: 70px;
+  z-index: 50;
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  border-bottom: 1px solid transparent;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 3%), 0 1px 2px 0 rgb(0 0 0 / 3%);
+  margin-top: 0;
+  padding: 0 0 0 80px!important;
+}*/
+.r1{
+  border-right: 1px solid #eee;
+  justify-content: center;
+  margin: 0rem;
+}
+
+.Mlogo
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.M1{
+  width: 100%;
+  height: 100%;
+  margin: 0rem;
+}
+
+.c1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.c2
+{
+height: 100%;
+}
+
+.all{
+  min-height: 50px;
+}
+.no-border {
+  border: 0;
+  box-shadow: none;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.remove-bold{
+  font-weight: 500;
+}
+
+.mid{
+  justify-content: space-between;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.pink
+{
+  background: linear-gradient(to right, #ff3399 0%, #ff0000 100%);
+}
+.M2
+{
+    margin-top: 32px;
+    margin-right: 0px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+}
+.Slogo
+{
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  width: 56px;
+  height: 56px;
+}
+.mail
+{
+  min-height: 112px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
